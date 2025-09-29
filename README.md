@@ -1,7 +1,7 @@
 # Hi, I'm Haru (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 
 <div align="center">
-  <img height="300" width="700" alt="Coding GIF" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/208593.gif">
+  <img height="300" width="700" alt="Coding GIF" src="[https://raw.githubusercontent.com/Xx-Ashutosh-xX/Haru-Tachibana/assets/ryo.gif](https://github.com/Haru-Tachibana/Haru-Tachibana/blob/main/assets/ryo.gif)">
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="right" alt="Working GIF" height="400" width="500" src="[https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif](https://tenor.com/gK8XFCI08Eo.gif)">
+<img align="right" alt="Working GIF" height="400" width="500" src="[[https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif](https://tenor.com/gK8XFCI08Eo.gif)](https://github.com/Haru-Tachibana/Haru-Tachibana/blob/main/assets/ui.gif)">
 
 ### Currently Learning:
 - C#/.NET
