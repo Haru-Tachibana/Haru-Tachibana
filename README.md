@@ -21,8 +21,8 @@
   <li><font color="#D9C4B0">Always exploring new techies...</font></li>
 </ul>
 
-<div align="right">
-  <img height="100" src="assets/ui.gif" alt="Ui Preview">
+<div align="center">
+  <img height="300" src="assets/ui.gif" alt="Ui Preview">
 </div>
 
 <br>
