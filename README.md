@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Haru (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 
-<!--
-**Haru-Tachibana/Haru-Tachibana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="300" width="700" alt="Coding GIF" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/208593.gif">
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About Me  
+
+### - Currently a student in England doing MSc Software Engineering 
+### - Big fan of music..bass guitar player in rock bands
+### - I'm a full-stack developer who loves building clean, functional, minimalist, and user-friendly applications
+### - On the other hand, also loves to combine my pixel art with codes to make cozy, cute, girly micro-projects ⸜(｡˃ ᵕ ˂ )⸝♡
+### - Always exploring new techies...
+
+<br>
+
+<img align="right" alt="Working GIF" height="400" width="500" src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif">
+
+### Currently Learning:
+- C#/.NET
+- Advanced TypeScript  
+- Flutter/Dart for cross-platform apps
+- Swift/SwiftUI
+- UI/UX Design Patterns
+
+### Hobbies:
+- Gaming..*I love Terraria..
+- Watching anime
+- Music & productivity hacks
+- Building side projects
+
+<br>
+
+---
+
+# Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,css,html,dart,flutter,tailwind,firebase,git,vscode&perline=6" />
+</p>
+
+<br>
+
+---
+
+# Featured Projects  
+
+- **[MyPortfolio](https://github.com/Haru-Tachibana/MyPortfolio)** – Personal portfolio website showcasing my work and skills.  
+- **[FocusFlow](https://github.com/Haru-Tachibana/FocusFlow)** – Productivity app to stay focused and manage time better.  
+- **[fridgemind](https://github.com/Haru-Tachibana/fridgemind)** – An app idea around managing thoughts and ideas like items in a fridge.  
+- **[Tap-Tap-Space](https://github.com/Haru-Tachibana/Tap-Tap-Space)** – A lightweight interactive game project.  
+
+<br>
+
+---
+
+# GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haru-Tachibana&show_icons=true&theme=radical" alt="Haru's GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haru-Tachibana&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<br>
+
+---
+
+# Contact Me  
+
+<p align="center">
+  <a href="[https://haru-tachibana-portfolio.vercel.app/](https://portfolio-yuyang.netlify.app/)">
+    <img alt="Portfolio" width="140px" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+---
+
+> "Coding for fun! ૮꒰ ˶• ༝ •˶꒱ა ♡"
