@@ -1,9 +1,7 @@
 # Hi, I'm Haru (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
 
 <div align="center">
-  <img height="300" width="700" alt="Coding GIF" src="[Ryo Preview](assets/ryo.gif)">
-</div>
-
+  <img height="300" width="700" alt="Ryo Preview" src="assets/ryo.gif">
 <br>
 
 # About Me  
@@ -16,7 +14,7 @@
 
 <br>
 
-<img align="right" alt="Working GIF" height="400" width="500" src="[UI Preview](assets/ui.gif)">
+<img align="right" alt="Ui" height="400" width="500" src="assets/ui.gif">
 
 ### Currently Learning:
 - C#/.NET
