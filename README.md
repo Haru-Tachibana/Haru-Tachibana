@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img height="220" src="assets/ryo.gif" alt="Ryo Preview">
+  <img height="800" src="assets/ryo.gif" alt="Ryo Preview">
 </div>
 
 <br>
@@ -22,7 +22,7 @@
 </ul>
 
 <div align="right">
-  <img height="300" src="assets/ui.gif" alt="Ui Preview">
+  <img height="100" src="assets/ui.gif" alt="Ui Preview">
 </div>
 
 <br>
