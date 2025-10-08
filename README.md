@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img height="800" src="assets/ryo.gif" alt="Ryo Preview">
+  <img height="800" src="assets/konata.gif" alt="just konata dancing :3">
 </div>
 
 <br>
@@ -22,7 +22,7 @@
 </ul>
 
 <div align="center">
-  <img height="300" src="assets/ui.gif" alt="Ui Preview">
+  <img height="300" src="assets/hello.gif" alt="Ui Preview">
 </div>
 
 <br>
