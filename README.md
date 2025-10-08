@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img height="800" src="assets/hello.gif" alt="just konata :3">
+  <img height="600" src="assets/hello.gif" alt="just konata :3">
 </div>
 
 <br>
