@@ -14,7 +14,7 @@
 
 <font color="#BBDCE5" size="5"><b>About Me</b></font>
 <ul>
-  <li><font color="#CFAB8D">Currently a student in England doing MSc Software Engineering</font></li>
+  <li><font color="#CFAB8D">Currently a student in England doing MSc Computer Science</font></li>
   <li><font color="#D9C4B0">Bass guitar player in rock bands</font></li>
   <li><font color="#BBDCE5">Full-stack developer who loves building clean, functional, minimalist, and user-friendly applications</font></li>
   <li><font color="#CFAB8D">Combining pixel art with code for cozy, cute, girly micro-projects ⸜(｡˃ ᵕ ˂ )⸝♡</font></li>
@@ -32,8 +32,7 @@
   <li><font color="#BBDCE5">C#/.NET</font></li>
   <li><font color="#D9C4B0">Advanced TypeScript</font></li>
   <li><font color="#CFAB8D">Flutter/Dart for cross-platform apps</font></li>
-  <li><font color="#BBDCE5">Swift/SwiftUI</font></li>
-  <li><font color="#D9C4B0">UI/UX Design Patterns</font></li>
+  <li><font color="#BBDCE5">Cloud Computing</font></li>
 </ul>
 
 <br>
