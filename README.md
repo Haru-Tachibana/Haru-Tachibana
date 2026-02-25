@@ -30,9 +30,8 @@
 <font color="#CFAB8D" size="5"><b>Currently Learning:</b></font>
 <ul>
   <li><font color="#BBDCE5">C#/.NET</font></li>
-  <li><font color="#D9C4B0">Advanced TypeScript</font></li>
-  <li><font color="#CFAB8D">Flutter/Dart for cross-platform apps</font></li>
-  <li><font color="#BBDCE5">Cloud Computing</font></li>
+  <li><font color="#CFAB8D">Java</font></li>
+  <li><font color="#D9C4B0">Cloud computing</font></li>
 </ul>
 
 <br>
