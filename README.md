@@ -16,9 +16,8 @@
 <ul>
   <li><font color="#CFAB8D">Currently a student in England doing MSc Computer Science</font></li>
   <li><font color="#D9C4B0">Bass guitar player in rock bands</font></li>
-  <li><font color="#BBDCE5">Full-stack developer who loves building clean, functional, minimalist, and user-friendly applications</font></li>
-  <li><font color="#CFAB8D">Combining pixel art with code for cozy, cute, girly micro-projects ⸜(｡˃ ᵕ ˂ )⸝♡</font></li>
-  <li><font color="#D9C4B0">Always exploring new techies...</font></li>
+  <li><font color="#D9C4B0">Learning electric guitar...⸜(｡˃ ᵕ ˂ )⸝♡</font></li>
+  <li><font color="#BBDCE5">Backend developer (upcoming)</font></li>
 </ul>
 
 <div align="center">
@@ -40,25 +39,16 @@
 <ul>
   <li><font color="#BBDCE5">Gaming..*I love Terraria..</font></li>
   <li><font color="#CFAB8D">Watching anime</font></li>
-  <li><font color="#D9C4B0">Music & productivity hacks</font></li>
-  <li><font color="#BBDCE5">Building side projects</font></li>
+  <li><font color="#D9C4B0">Music</font></li>
+  <li><font color="#BBDCE5">Sleeping</font></li>
 </ul>
 
 ---
 
 <font color="#CFAB8D" size="5"><b>Languages & Tools</b></font>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,css,html,dart,flutter,tailwind,firebase,git,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,cs,docker,firebase,git,vscode&perline=6" />
 </p>
-
----
-
-<font color="#BBDCE5" size="5"><b>Featured Projects</b></font>
-<ul>
-  <li><font color="#CFAB8D"><b>[MyPortfolio](https://github.com/Haru-Tachibana/MyPortfolio)</b> – Personal portfolio website showcasing my work and skills.</font></li>
-  <li><font color="#D9C4B0"><b>[FocusFlow](https://github.com/Haru-Tachibana/FocusFlow)</b> – Productivity app to stay focused and manage time better.</font></li>
-  <li><font color="#BBDCE5"><b>[fridgemind](https://github.com/Haru-Tachibana/fridgemind)</b> – An app idea around managing thoughts and ideas like items in a fridge.</font></li>
-</ul>
 
 ---
 
