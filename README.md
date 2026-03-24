@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/HI.png" alt="Hi, I'm Haru (˶˃ ᵕ ˂˶) .ᐟ.ᐟ" width="500">
+  <img src="assets/HI.png" alt="Hi, I'm Ruka (˶˃ ᵕ ˂˶) .ᐟ.ᐟ" width="500">
   <br>
   <span style="color:#CFAB8D; font-size:1.5em;">Welcome ~ (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</span>
 </div>
@@ -30,6 +30,7 @@
 <ul>
   <li><font color="#BBDCE5">C#/.NET</font></li>
   <li><font color="#CFAB8D">Java</font></li>
+  <li><font color="#CFAB8D">Golang</font></li>
   <li><font color="#D9C4B0">Cloud computing</font></li>
 </ul>
 
