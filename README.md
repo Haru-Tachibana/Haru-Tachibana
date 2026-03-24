@@ -20,10 +20,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Haru-Tachibana&show_icons=true&theme=radical" alt="Ruka's GitHub stats"/>
 </p>
-
-
-<div align="center">
-  <font color="#BBDCE5" size="5">
-    <b>"Coding for fun! ૮꒰ ˶• ༝ •˶꒱ა ♡"</b>
-  </font>
-</div>
