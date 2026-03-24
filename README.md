@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="assets/ruka.png" alt="Hi, I'm Ruka (˶˃ ᵕ ˂˶) .ᐟ.ᐟ" width="500">
+  <img src="assets/ruka-hi.png" alt="Hi, I'm Ruka (˶˃ ᵕ ˂˶) .ᐟ.ᐟ" width="500">
 </div>
-<br>
 <font color="#BBDCE5" size="5"><b>About Me</b></font>
 <ul>
   <li><font color="#CFAB8D">Currently a student in England doing MSc Computer Science</font></li>
