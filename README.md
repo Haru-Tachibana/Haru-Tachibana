@@ -14,9 +14,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,go,python,bash,linux,dotnet,spring,docker,firebase,git,azure,k8s,jenkins&perline=7" />
 </p>
-
-
-<font color="#D9C4B0" size="5"><b>GitHub Stats</b></font>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haru-Tachibana&show_icons=true&theme=radical" alt="Ruka's GitHub stats"/>
-</p>
