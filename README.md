@@ -3,7 +3,7 @@
 </div>
 <font color="#BBDCE5" size="5"><b>About Me</b></font>
 <ul>
-  <li><font color="#CFAB8D">Currently a student in England doing MSc Computer Science</font></li>
+  <li><font color="#CFAB8D">Currently student in England doing MSc Computer Science</font></li>
   <li><font color="#D9C4B0">Bass guitar player in rock bands</font></li>
   <li><font color="#D9C4B0">Learning electric guitar...⸜(｡˃ ᵕ ˂ )⸝♡</font></li>
   <li><font color="#BBDCE5">Backend developer (upcoming)</font></li>
