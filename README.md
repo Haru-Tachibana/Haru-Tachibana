@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/ruka-hi.png" alt="Hi, I'm Ruka (˶˃ ᵕ ˂˶) .ᐟ.ᐟ" width="500">
+  <img src="assets/name.png" alt="Hi, I'm Ruka (˶˃ ᵕ ˂˶) .ᐟ.ᐟ" width="500">
 </div>
 <font color="#BBDCE5" size="5"><b>About Me</b></font>
 <ul>
