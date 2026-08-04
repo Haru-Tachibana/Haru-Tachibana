@@ -9,7 +9,6 @@
   <li><font color="#D9C4B0">Learning electric guitar...⸜(｡˃ ᵕ ˂ )⸝♡</font></li>
 </ul>
 
-<br>
 <font color="#CFAB8D" size="5"><b>Languages & Tools</b></font>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,go,python,bash,linux,dotnet,spring,docker,firebase,git,azure,k8s,jenkins&perline=7" />
