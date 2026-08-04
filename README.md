@@ -4,7 +4,7 @@
 <font color="#BBDCE5" size="5"><b>About Me</b></font>
 <ul>
   <li><font color="#CFAB8D">Computer Science graduate</font></li>
-  <li><font color="#BBDCE5">Software % Platform engineer</font></li>
+  <li><font color="#BBDCE5">Software & Platform engineer</font></li>
   <li><font color="#D9C4B0">Bass guitar player in rock bands</font></li>
   <li><font color="#D9C4B0">Learning electric guitar...⸜(｡˃ ᵕ ˂ )⸝♡</font></li>
 </ul>
